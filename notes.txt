@@ -1,0 +1,4 @@
+Temp notes for development:
+
+* Research markdown Syntax for Readme
+* Plan the next feature
