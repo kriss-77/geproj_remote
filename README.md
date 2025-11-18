@@ -6,3 +6,4 @@ this is the begining of my project where iam learning Git Fundamentals
 * Understanding Staging and Commiting
 * Practice undoing mistakes
 # Project is online !!!
+* learning basic git commands 
